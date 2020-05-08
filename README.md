@@ -1,8 +1,10 @@
 # Parking Lot Car Counter using IC4026
 
-Searching for free parking places in urban traffic conditionsis a serious mobility problem. A study provides resultsregarding the parking situation in Schwabing, a district of Munich, Germany. For this area, an annual total economical damage of 20 million Euros (about 25 million US dollars) has been estimated, caused only by the traffic searching for free parking lots. It would thus be a great benefit for the driver of a vehicle to have up-to-date knowledge on free parking places nearthe destination area.
+Searching for free parking places in urban traffic conditions is a serious mobility problem. A study provides results regarding the parking situation in Schwabing, a district of Munich, Germany. For this area, an annual total economical damage of 20 million Euros (about 25 million US dollars) has been estimated, caused only by the traffic searching for free parking lots. It would thus be a great benefit for the driver of a vehicle to have up-to-date knowledge on free parking places near the destination area.
 
-With the increasing growth of automotive industry, the demand for intelligent parking service is expected to grow rapidly in the near future. This emerging service will provide automatic management of parking lots by accurat emonitoring and making that information available to customers and facility administrators. 
+With the increasing growth of automotive industry, the demand for intelligent parking service is expected to grow rapidly in the near future. This emerging service will provide automatic management of parking lots by accurate monitoring and making that information available to customers and facility administrators.
+
+#### The counter will provide acurate count of the number of vehicles at entry and exit points of the parking lot. The facility administrator can use this information to avoid overcrowding and better operations.
 
 # Background
 
